@@ -139,11 +139,11 @@
   {{ else if site.Params.logo }}
     {{ $og_image = (printf "img/%s" site.Params.logo) | absURL }}
     {{ $twitter_card = "summary" }}
-  {{ else if site.Params.avatar }}
-    {{ $og_image = (printf "img/%s" site.Params.avatar) | absURL }}
+  {{ else if site.Params.DP }}
+    {{ $og_image = (printf "img/%s" site.Params.DP) | absURL }}
     {{ $twitter_card = "summary" }}
   {{ else }}
-    {{ $og_image = "img/icon-192.png" | absURL }}
+    {{ $og_image = "img/DP.JPG" | absURL }}
     {{ $twitter_card = "summary" }}
   {{ end }}
   {{ $scr.Set "og_image" $og_image }}{{/* Set `og_image` globally for `rss.xml`. */}}
