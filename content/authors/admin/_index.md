@@ -68,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Data and Applied Scientist at AI and Research, Microsoft, Bengaluru office. My research interests include Reinforcement Learning, Deep Learning, Game Theory, Computer Vision and Robotics. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+At Microsoft, I build frameworks for the Detection, rejection and removal of adversarial attacks on multi-media advertising such as Product Ads displayed anywhere by Microsoft that violates editorial policies. I recently started working on methods to detect Account Compromises in Text Ads.
