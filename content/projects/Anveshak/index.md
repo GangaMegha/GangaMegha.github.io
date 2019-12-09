@@ -1,8 +1,8 @@
 ---
-title: "A Hierarchical Approach to Multi Tasking in Reinforcement Learning"
+title: "Team Anveshak, University Rover Challenge, Utah"
 authors:
 - admin
-date: "2018-05-10"
+date: "2017-06-18"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,19 +18,19 @@ doi: ""
 #publication: In *Source Themes Conference*
 #publication_short: In *STC*
 
-abstract: Our aim was to study and evaluate the performance Hierarchical Reinforcement Learning frameworks in multi-tasking domains using active sampling. We evaluated the performance of dmakian implementation of Feudal Network architecture(generate temporally extended sub-policies) on multiple Atari games using OpenAI Gym environment. We integrated multi-tasking algorithms such as Adaptive Active Sampling, Doubling UCB and Doubling DQN for active selection of games during training into the Option Critic architecture using ALE. Future work involves using prioritized experience replay for Doubling DQN and assignment of CPU threads per game based on selection probabilities.
+abstract: We build a remote operated all-terrain rover, complete with a robotic manipulator and digger, with an in-built autonomous navigation module. We were one of the 3 teams from India to get selected for University Rover Challenge held by Mars Society in Utah, and finished 29th out of more than 70 teams from across the world at URC 2017 in our debut attempt. As part of the Softwarew Team, I developed novel heuristics for path planning for autonomous 6 wheel drive systems. I also developed ROS meta-packages in C++ and Python, interfacing the robotic manipulator and on-board drive systems for seamless control. I implemented Computer Vision algorithms for identification and estimation of object distance, and a custom built radar using ultrasonic sensors.
 
 # Summary. An optional shortened abstract.
-summary: Study and evaluation of the performance Hierarchical Reinforcement Learning frameworks in multi-tasking domains using active sampling.
+summary: We build a remote operated all-terrain rover, complete with a robotic manipulator and digger, with an in-built autonomous navigation module.
 
 tags:
 - Source Themes
 featured: true
 
 links:
-#- name: Demo Video
-#  url: https://approxnet.github.io/
-#url_pdf: https://arxiv.org/pdf/1909.02068.pdf
+- name: Team Website																															
+  url: http://www.anveshak.team/?i=1
+#url_pdf: 
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'

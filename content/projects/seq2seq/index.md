@@ -1,8 +1,8 @@
 ---
-title: "A Hierarchical Approach to Multi Tasking in Reinforcement Learning"
+title: "Weather data summarizer using encoder-decoder networks"
 authors:
 - admin
-date: "2018-05-10"
+date: "2018-05-02"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,10 +18,10 @@ doi: ""
 #publication: In *Source Themes Conference*
 #publication_short: In *STC*
 
-abstract: Our aim was to study and evaluate the performance Hierarchical Reinforcement Learning frameworks in multi-tasking domains using active sampling. We evaluated the performance of dmakian implementation of Feudal Network architecture(generate temporally extended sub-policies) on multiple Atari games using OpenAI Gym environment. We integrated multi-tasking algorithms such as Adaptive Active Sampling, Doubling UCB and Doubling DQN for active selection of games during training into the Option Critic architecture using ALE. Future work involves using prioritized experience replay for Doubling DQN and assignment of CPU threads per game based on selection probabilities.
+abstract: Implemented a table summarizer for structured weather data using an encoder-decoder model comprising of an attention layer over a hierarchical bidirectional LSTM based encoder and LSTM decoder. I compared its performance to a uni-directional LSTM encoder-decoder model using BLEU-4 score.
 
 # Summary. An optional shortened abstract.
-summary: Study and evaluation of the performance Hierarchical Reinforcement Learning frameworks in multi-tasking domains using active sampling.
+summary: Implemented a table summarizer for structured weather data using an encoder-decoder model comprising of an attention layer over a hierarchical bidirectional LSTM based encoder and LSTM decoder.
 
 tags:
 - Source Themes

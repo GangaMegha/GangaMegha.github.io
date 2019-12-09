@@ -2,7 +2,7 @@
 title: "Memory based Multi-tasking A3C Agent"
 authors:
 - admin
-date: "2019-08-28"
+date: "2018-12-05"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -12,7 +12,7 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+# publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 #publication: In *Source Themes Conference*
@@ -28,9 +28,9 @@ tags:
 featured: true
 
 links:
-- name: Demo Video
-  url: https://approxnet.github.io/
-url_pdf: https://arxiv.org/pdf/1909.02068.pdf
+#- name: Demo Video
+# url: https://approxnet.github.io/
+url_pdf: files/MRM-A3C.pdf
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'

@@ -1,8 +1,8 @@
 ---
-title: "A Hierarchical Approach to Multi Tasking in Reinforcement Learning"
+title: "Word embeddings for native languages"
 authors:
 - admin
-date: "2018-05-10"
+date: "2018-04-05"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,19 +18,19 @@ doi: ""
 #publication: In *Source Themes Conference*
 #publication_short: In *STC*
 
-abstract: Our aim was to study and evaluate the performance Hierarchical Reinforcement Learning frameworks in multi-tasking domains using active sampling. We evaluated the performance of dmakian implementation of Feudal Network architecture(generate temporally extended sub-policies) on multiple Atari games using OpenAI Gym environment. We integrated multi-tasking algorithms such as Adaptive Active Sampling, Doubling UCB and Doubling DQN for active selection of games during training into the Option Critic architecture using ALE. Future work involves using prioritized experience replay for Doubling DQN and assignment of CPU threads per game based on selection probabilities.
+abstract: We scraped data from over 30 websites to successfully construct a corpus of nearly 15 million words in the Indian native language Malayalam. We performed a comparative study on the effectiveness of existing word2vec models on the corpus. We dveloped custom metrics and test cases in Malayalam for model evaluation.
 
 # Summary. An optional shortened abstract.
-summary: Study and evaluation of the performance Hierarchical Reinforcement Learning frameworks in multi-tasking domains using active sampling.
+summary: Created a corpus and embeddings for nearly 15 million words in the Indian native language Malayalam.
 
 tags:
 - Source Themes
 featured: true
 
 links:
-#- name: Demo Video
-#  url: https://approxnet.github.io/
-#url_pdf: https://arxiv.org/pdf/1909.02068.pdf
+- name: Corpus
+  url: https://drive.google.com/file/d/1oxQqx5HFMVwvOLhyPx4IiTVoskL-X4am/view?usp=sharing
+#url_pdf: 
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
