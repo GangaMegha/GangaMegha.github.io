@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>GangaMegha</title>
     <link>https://gangamegha.github.io/authors/admin/</link>
       <atom:link href="https://gangamegha.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <description>GangaMegha</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Aug 2019 19:29:41 +0000</lastBuildDate>
     <image>
-      <url>https://gangamegha.github.io/img/DP.JPG</url>
-      <title>Academic</title>
+      <url>https://gangamegha.github.io/img/DP</url>
+      <title>GangaMegha</title>
       <link>https://gangamegha.github.io/authors/admin/</link>
     </image>
     
@@ -17,17 +17,20 @@
       <link>https://gangamegha.github.io/publication/approxnet/</link>
       <pubDate>Wed, 28 Aug 2019 19:29:41 +0000</pubDate>
       <guid>https://gangamegha.github.io/publication/approxnet/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&#39;s Markdown slides feature.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
@@ -84,17 +87,24 @@ Supplementary notes can be added here, including [code and math](https://sourcet
       <link>https://gangamegha.github.io/projects/mrm-a3c/</link>
       <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
       <guid>https://gangamegha.github.io/projects/mrm-a3c/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&#39;s Markdown slides feature.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+ --&gt;&lt;blockquote&gt;
+&lt;/blockquote&gt;
 </description>
     </item>
     
