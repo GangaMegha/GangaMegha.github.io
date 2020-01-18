@@ -24,11 +24,11 @@ subtitle = ""
   order = "desc"
 
   # Filter posts by a taxonomy term.
-  #[content.filters]
-  #  tag = ""
-  #  category = ""
-  #  publication_type = ""
-  #  exclude_featured = false
+  [content.filters]
+    tag = ""
+    category = ""
+    publication_type = ""
+    exclude_featured = false
   
 [design]
   # Toggle between the various page layout types.
@@ -67,6 +67,6 @@ subtitle = ""
 +++
 
 <!-- {{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/projects/_index.md" >}}).
+Quickly discover relevant content by [filtering projects]({{< ref "/projects/_index.md" >}}).
 {{% /alert %}}
  -->

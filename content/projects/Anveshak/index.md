@@ -28,7 +28,7 @@ tags:
 featured: true
 
 links:
-- name: Team Website																															
+- name: Team Website																													
   url: http://www.anveshak.team/?i=1
 #url_pdf: 
 #url_code: '#'
@@ -59,7 +59,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+<!-- slides: example -->
 ---
 
 <!-- {{% alert note %}}
